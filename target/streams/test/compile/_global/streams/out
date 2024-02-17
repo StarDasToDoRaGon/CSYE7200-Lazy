@@ -1,0 +1,187 @@
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibSquareSpec.scala:3:36: object FibonacciPythagoras is not a member of package edu.neu.coe.csye7200.asstll[0m[0J
+[0m[[0m[31merror[0m] [0m[0mimport edu.neu.coe.csye7200.asstll.FibonacciPythagoras._[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibSquareSpec.scala:9:13: not found: type FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m  val root: FibSquare = FibonacciPythagoras.root[0m[0J
+[0m[[0m[31merror[0m] [0m[0m            ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibSquareSpec.scala:9:25: not found: value FibonacciPythagoras[0m[0J
+[0m[[0m[31merror[0m] [0m[0m  val root: FibSquare = FibonacciPythagoras.root[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:3:36: object FibonacciPythagoras is not a member of package edu.neu.coe.csye7200.asstll[0m[0J
+[0m[[0m[31merror[0m] [0m[0mimport edu.neu.coe.csye7200.asstll.FibonacciPythagoras.{fermatTree, platoTree, pythagorasTree, tree}[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:5: not found: value tree[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:40: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:57: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:74: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                         ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:91: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                          ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:108: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                           ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:125: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                            ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:142: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                             ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:159: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                              ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:176: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                               ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:194: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                 ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:211: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                                  ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:228: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:12:245: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    tree take 13 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(2, 5), FibSquare(2, 3), FibSquare(1, 6), FibSquare(4, 9), FibSquare(4, 7), FibSquare(2, 9), FibSquare(5, 12), FibSquare(5, 8), FibSquare(2, 7), FibSquare(3, 8), FibSquare(3, 4))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                                                                    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:5: not found: value fermatTree[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:45: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:62: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:79: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                              ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:97: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:116: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:135: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                      ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:155: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                          ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:16:176: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    fermatTree take 8 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 5), FibSquare(5, 12), FibSquare(12, 29), FibSquare(29, 70), FibSquare(70, 169), FibSquare(169, 408), FibSquare(408, 985))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                               ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:5: not found: value pythagorasTree[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:50: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:67: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:84: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:101: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:118: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                     ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:135: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                      ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:152: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                       ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:169: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                        ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:186: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                         ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:24:204: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    pythagorasTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(2, 3), FibSquare(3, 4), FibSquare(4, 5), FibSquare(5, 6), FibSquare(6, 7), FibSquare(7, 8), FibSquare(8, 9), FibSquare(9, 10), FibSquare(10, 11))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                           ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:5: not found: value platoTree[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:45: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:62: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:79: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                              ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:96: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                               ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:113: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:131: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                  ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:149: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:167: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                      ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:185: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                        ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\FibonacciPythagorasSpec.scala:32:203: not found: value FibSquare[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    platoTree take 10 to List shouldBe List(FibSquare(1, 2), FibSquare(1, 4), FibSquare(1, 6), FibSquare(1, 8), FibSquare(1, 10), FibSquare(1, 12), FibSquare(1, 14), FibSquare(1, 16), FibSquare(1, 18), FibSquare(1, 20))[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                                          ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\PyTripleSpec.scala:3:36: object FibonacciPythagoras is not a member of package edu.neu.coe.csye7200.asstll[0m[0J
+[0m[[0m[31merror[0m] [0m[0mimport edu.neu.coe.csye7200.asstll.FibonacciPythagoras.root[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\PyTripleSpec.scala:9:15: not found: type PyTriple[0m[0J
+[0m[[0m[31merror[0m] [0m[0m  val triple: PyTriple = root.triple[0m[0J
+[0m[[0m[31merror[0m] [0m[0m              ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\PyTripleSpec.scala:9:26: not found: value root[0m[0J
+[0m[[0m[31merror[0m] [0m[0m  val triple: PyTriple = root.triple[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:11:5: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(2, 5) shouldBe Rational(11, 15)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:11:22: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(2, 5) shouldBe Rational(11, 15)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:11:46: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(2, 5) shouldBe Rational(11, 15)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:12:5: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(1) shouldBe Rational(4, 3)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:12:22: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(1) shouldBe Rational(4, 3)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:12:43: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(1, 3) + Rational(1) shouldBe Rational(4, 3)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:15:5: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(2, 3) * Rational(3, 2) shouldBe Rational(1)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:15:22: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(2, 3) * Rational(3, 2) shouldBe Rational(1)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:15:46: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(2, 3) * Rational(3, 2) shouldBe Rational(1)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mE:\CSYE7200\assignment-lazy\src\test\scala\edu\neu\coe\csye7200\asstll\RationalSpec.scala:18:5: not found: value Rational[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    Rational(11, 15).toString shouldBe "11/15"[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m62 errors found[0m[0J
